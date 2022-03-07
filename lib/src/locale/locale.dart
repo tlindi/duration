@@ -24,6 +24,7 @@ part 'korean.dart';
 part 'indonesian.dart';
 part 'czech.dart';
 part 'finnish.dart';
+part 'ukrainian.dart';
 
 /// Interface to print time units for different locale
 abstract class DurationLocale {
